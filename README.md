@@ -14,7 +14,7 @@ Genetic sampling, and genetic data (vcf, genepop, and structure genotype files, 
 Demultiplexed forward and reverse DNA sequence reads for the deacon rockfish sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA560239, http://www.ncbi.nlm.nih.gov/bioproject/560239
 
 # Raw Illumina reads
-Available on request from Kathleen O'Malley (State Fisheries Genomics Lab, Oregon State University: https://agsci.oregonstate.edu/state-fisheries-lab/people)
+Available on request from Kathleen O'Malley (State Fisheries Genomics Lab, Oregon State University), https://agsci.oregonstate.edu/state-fisheries-lab/people
 
 # Further information
 See this page: https://sites.google.com/view/evauxlution/data
