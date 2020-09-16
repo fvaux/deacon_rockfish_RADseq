@@ -1,5 +1,5 @@
 # deacon_rockfish_RADseq
-Commands and input files for population genetic analysis of Deacon Rockfish using RADseq. Used for: Vaux F, Rasmuson LK, Kautzi LA, Rankin PS, Blume MTO, Lawrence KA, Bohn S, O’Malley KG. (2019). Sex matters: otolith shape and genomic variation in deacon rockfish (Sebastes diaconus). Ecology and Evolution 9, 13153-13173.
+Commands and input files for population genetic analysis of Deacon Rockfish using RADseq. Used for: Vaux F, Rasmuson LK, Kautzi LA, Rankin PS, Blume MTO, Lawrence KA, Bohn S, O’Malley KG. (2019). Sex matters: otolith shape and genomic variation in deacon rockfish (Sebastes diaconus). Ecology and Evolution 9, 13153-13173. https://doi.org/10.1002/ece3.5763
 
 # deacon_rockfish_STACKS_and_filtering
 Lists input commands used for the STACKS analysis and subsequent analyses used for filtering in VCFtools, plink, and paralog-finder (HDplot), as well as BWA.
