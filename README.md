@@ -10,7 +10,7 @@ Maps used to select individuals and populations in STACKS runs.
 # blacklists
 Blacklists used to exclude certain loci in STACKS runs.
 
-# plink-ld
+# plink
 Ped and map files used by plink to estimate loci in LD.
 
 # vcftools-hwe
