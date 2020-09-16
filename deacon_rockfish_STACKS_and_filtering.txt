@@ -1,4 +1,4 @@
-###****~~~~~~~~~~~~~UNPACKING, PROCESS RADTAGS AND CONCATENATING READS~~~~~~~~~~~~~****###
+###****~~~~~~~~~~~~~UNPACKING AND PROCESS RADTAGS~~~~~~~~~~~~~****###
 #Unpack Illumina reads using gunzip
 ssh harold
 tcsh
