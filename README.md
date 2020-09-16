@@ -4,8 +4,17 @@ Commands and input files for population genetic analysis of Deacon Rockfish usin
 # deacon_rockfish_STACKS_and_filtering
 Lists input commands used for the STACKS analysis and subsequent analyses used for filtering in VCFtools, plink, and paralog-finder (HDplot), as well as BWA.
 
-# Other files on GitHub
-These are input files (e.g. population maps, blacklists) used for STACKS and the other tools.
+# maps
+Maps used to select individuals and populations in STACKS runs.
+
+# blacklists
+Blacklists used to exclude certain loci in STACKS runs.
+
+# plink-ld
+Ped and map files used by plink to estimate loci in LD.
+
+# vcftools-hwe
+Maps used to select subsets of individuals for estimating HWP.
 
 # Genetic sampling, and genotype and loci fasta files
 Genetic sampling, and genetic data (vcf, genepop, and structure genotype files, and the fasta consensus file for the 92 outlier loci) are available from Dryad: https://doi.org/10.5061/dryad.8kprr4xj0
