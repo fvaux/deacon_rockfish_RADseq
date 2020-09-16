@@ -11,7 +11,7 @@ These are input files (e.g. population maps, blacklists) used for STACKS and the
 Genetic sampling, and genetic data (vcf, genepop, and structure genotype files, and the fasta consensus file for the 92 outlier loci) are available from Dryad: https://doi.org/10.5061/dryad.8kprr4xj0
 
 # Demultiplexed reads
-Demultiplexed forward and reverse DNA sequence reads for the deacon rockfish sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA560239, http://www.ncbi.nlm.nih.gov/bioproject/560239.
+Demultiplexed forward and reverse DNA sequence reads for the deacon rockfish sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA560239, http://www.ncbi.nlm.nih.gov/bioproject/560239
 
 # Raw Illumina reads
 Available on request from Kathleen O'Malley (State Fisheries Genomics Lab, Oregon State University: https://agsci.oregonstate.edu/state-fisheries-lab/people)
