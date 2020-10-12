@@ -15,7 +15,7 @@ exit
 
 #Process RADtags IN STACKS
 #RETRIEVING FORWARD READS CONTAINING THE SBFI RESTRICTION SITE FROM THE ILLUMINA 'FORWARD' P5/R1 AND 'REVERSE' P7/R2 READS
-#STACKS 1.3 DID NOT HAVE BESTRAD FLAG, AND SO NO REVERSE READS WITHOUT THE RESTRICTION SITE ARE DEMULTIPLEXED
+#STACKS 1.3 DID NOT HAVE BESTRAD FLAG, AND SO NO REVERSE READS ARE TRANSPOSED AND DEMULTIPLEXED
 
 ##ROCKFISH PLATE1 R1
 SGE_Batch -q otter -c '/local/cluster/stacks/stacks-1.35/bin/process_radtags -f /nfs1/FW_HMSC/OMalley_Lab/vauxf/RAW_READS/rockfish/L347/lane3-s001-index-TGACCA-Plate1_S1_L003_R1_001.fastq -b /nfs1/FW_HMSC/OMalley_Lab/vauxf/STACKS/barcodes/rockfish/barcode_rockfish_p1-r1 -o /nfs1/FW_HMSC/OMalley_Lab/vauxf/STACKS/single/rockfish/rockfish-p1r1 -c -q -i fastq -inline_inline -e sbfI -E phred33 -r' -r rockfish-p1r1-log
